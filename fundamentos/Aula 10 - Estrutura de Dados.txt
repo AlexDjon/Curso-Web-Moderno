@@ -1,0 +1,22 @@
+O que é Algoritmo?
+R: Estabelecer a ação de um código, visando a maneira que ele vai acontecer e a forma.
+
+O que é Estrutura de Dados?
+R: A estrutura que organiza e administra os dados, e também define as regras. 
+
+O que é Tipagem Dinâmica?
+R: Onde você cria uma variavel e a linguagem define automaticamente o seu tipo.
+
+Ordens da Estrutura de Dados:
+FIFO - Primeiro a entrar, primeiro a sair
+LIFO - Ultimo a entrar é o primeiro a sair
+
+Tipos de Estrutura de Dados:
+Básicas: int, real, letra, bool
+
+Váriaveis = Guarda valores (alteraveis) por um determinado nome
+Contantes = Guarda valores (não alteraveis) por um determinado nome
+
+OPERAÇÕES:
+Lógicas: Analisa as possibilidades
+Relacionais: Analisa e compara os dados.

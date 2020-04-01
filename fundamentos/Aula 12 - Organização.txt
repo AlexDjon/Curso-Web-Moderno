@@ -1,0 +1,2 @@
+Sentença: Determinado por ponto e vírgula (;)
+Bloco: Agrupar Sentença de código por chaves ({})

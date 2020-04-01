@@ -1,0 +1,4 @@
+Usar o mínimo de váriaveis possiveis
+Usar const em maior quantidade
+Focar em criar novas variaveis baseadas em constante,
+ao invés de usar variaveis
